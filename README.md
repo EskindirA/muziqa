@@ -1,2 +1,2 @@
 ## Live Test Url Deployed on Heroku
-([http://muziqa.herokuapp.com])
+[http://muziqa.herokuapp.com]
